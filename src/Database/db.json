@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "MS Dhoni123",
+      "username": "dhoni1230",
+      "email": "msdhoni@gmail.com",
+      "phone": "4563214530",
+      "id": 1
+    },
+    {
+      "name": "KL Rahul09090",
+      "username": "klrahul",
+      "email": "rahul@gmail.com",
+      "phone": "7458965874",
+      "id": 5
+    },
+    {
+      "name": "Satya Prakash123",
+      "username": "CoderSatya",
+      "email": "sprakash6233@gmail.com",
+      "phone": "8506056814",
+      "id": 7
+    }
+  ]
+}
